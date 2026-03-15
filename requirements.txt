@@ -1,13 +1,13 @@
 pandas
 numpy
 requests
-python-telegram-bot==21.9
+python-telegram-bot
 pytz
 flask
 flask
 numpy
 pandas
-python-telegram-bot==21.9
+python-telegram-bot
 pytz
 requests
 telegram
